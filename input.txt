@@ -1,0 +1,8 @@
+% mdmfdsf %
+begin
+var
+;
+:=
+end
+fun
+`
