@@ -104,5 +104,4 @@ OneLineComment     = "%" {InputCharacter}* {LineTerminator}?
 	"ceil" 			{ return symbol(sym.CEIL); }
 	"fun" 			{ return symbol(sym.FUN); }
 	"return" 		{ return symbol(sym.RETURN); }
-	"`" 		    { return symbol(sym.SIGM); }
 }

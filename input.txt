@@ -1,8 +1,10 @@
-% mdmfdsf %
+/* mdm
+fdsf */
 begin
 var
 ;
+% comment
 :=
 end
 fun
-`
+if
