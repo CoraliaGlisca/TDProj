@@ -8,3 +8,4 @@ var
 end
 fun
 if
+while
